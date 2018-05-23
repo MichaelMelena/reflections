@@ -8,3 +8,5 @@ It offers selection of changed files. More control over commits.
 I can add only the files connected to one logical change and commit them and then add other files with other changes after that.
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When I would like to make a change that doesn't necessary depends on the master or it is a change that is experimental.
+5) How do the diagrams help you visualize the branch structure?
+It helps us determine when did the branch separate from master or other branch and where does each branch trace.
