@@ -1,6 +1,10 @@
 1) What happens when you initialize a repository? Why do you need to do it?
 It creates an .git folder which stores the configuration and snapshots.
 I need it in order to use git.
-2) How is the staging area different from the working directory and the repository? 
+2) How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-It offers selection of changed files. More control over your commits.
+It offers selection of changed files. More control over commits.
+3) How can you use the staging area to make sure you have one commit per logical change?
+I can add only the files connected to one logical change and commit them and then add other files with other changes after that.
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I would like to make a change that doesn't necessary depends on the master or it is a change that is experimental.
