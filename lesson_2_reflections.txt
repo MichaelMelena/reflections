@@ -10,3 +10,7 @@ I can add only the files connected to one logical change and commit them and the
 When I would like to make a change that doesn't necessary depends on the master or it is a change that is experimental.
 5) How do the diagrams help you visualize the branch structure?
 It helps us determine when did the branch separate from master or other branch and where does each branch trace.
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is commit with content from both branches.
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It saves us time but when more complex merges occur we have to do it manually
